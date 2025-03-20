@@ -13,8 +13,9 @@ This project is a **Social Media Analytics Page** that allows users to analyze s
 
 ## Screenshots 📸
 ### Interface
-![Interface](public/Interface.png)
+![Interface](social-media/public/Interface.png)
+
 
 ### Postman API Authorization
-![Postman Request](public/postman_req.jpeg)
+![Postman Request](social-media/public/postman_req.jpeg)
 
